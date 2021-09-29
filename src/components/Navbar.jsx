@@ -13,7 +13,7 @@ const Navbar = () => {
                 <Typography.Title level={2} className="logo">
 
                     <Link to="/">
-                        Crypto App
+                        CryptoApp
                     </Link>  
                         
                 </Typography.Title>
